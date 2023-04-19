@@ -1,1 +1,3 @@
-alert('test');
+import pageLoad from './pageLoad';
+
+pageLoad();
