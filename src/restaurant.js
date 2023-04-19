@@ -17,7 +17,7 @@ const createRestaurantHomePage = () => {
 
   // creates and appends copy
   const copy = document.createElement('p');
-  copy.textContent = 'We have the best suchi around! Come and try some!';
+  copy.textContent = 'We have the best sushi around! Come and try some!';
   pageContent.appendChild(copy);
 
   // appends page content to content container
