@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+img {
+  height: 500px;
+}
+
+#menu-select {
+  display: flex;
+  gap: 8px;
+  margin: 8px;
+}
+
+.menu {
+  padding: 8px 16px;
+  border: 1px solid coral;
+  border-radius: 4px;
+  cursor: pointer;
+}
